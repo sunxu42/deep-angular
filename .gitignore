@@ -1,3 +1,5 @@
 .idea/*
 
 docs/.vitepress/*
+
+package-lock.json
