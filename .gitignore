@@ -3,3 +3,5 @@
 docs/.vitepress/*
 
 package-lock.json
+
+node-modules
