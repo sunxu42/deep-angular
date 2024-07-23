@@ -1,6 +1,7 @@
 .idea/*
 
-docs/.vitepress/*
+docs/.vitepress/cache/*
+docs/.vitepress/cache/dist/*
 
 package-lock.json
 
