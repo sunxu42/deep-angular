@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Angular User's Guide"
-  text: "A side that provides a guide to angular best pratices"
-  tagline: My great project tagline
+  name: "Angular 最佳实践"
+  text: "Better than more practice"
+  tagline: 优雅与效率并存
   actions:
     - theme: brand
       text: Markdown Examples
